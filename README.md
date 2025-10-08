@@ -11,7 +11,8 @@ Pantalla con calculadora científica
 
 <img width="1597" height="381" alt="image" src="https://github.com/user-attachments/assets/f071801d-0391-446d-92e5-9402f8b8bee0" />
 
-<img width="288" height="192" alt="image" src="https://github.com/user-attachments/assets/3f56daad-3ae7-4889-8e3d-557dbdf6fbf1" />
+<img width="234" height="278" alt="image" src="https://github.com/user-attachments/assets/70369e3b-c1c0-410d-8bb0-869d86f054e2" />
+
 
 <img width="1562" height="249" alt="image" src="https://github.com/user-attachments/assets/47db07c6-ee20-4221-b55a-5dba335aed7a" />
 
